@@ -4,7 +4,7 @@
 
 "Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively."
 
-Using Python requests, APIs, and JSON traversals I aimed to answer the fundamental question: "What's the weather like as we approach the equator?"
+Using Python requests, APIs (API wrappers), and JSON traversals I aimed to answer the fundamental question: "What's the weather like as we approach the equator?"
 
 Created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. Utilized a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
